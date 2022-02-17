@@ -1,4 +1,4 @@
-function shadowWizard(options){
+function shadowsUtil(options){
     let images = document.querySelectorAll('.shadowWizard');
     if(options.shadowType === 'hard'){
         options.shadowType = '0px'
@@ -16,4 +16,4 @@ function shadowWizard(options){
     
 }
 
-module.exports.ShadowWizard = ShadowWizard;
+module.exports.shadowsUtil = shadowsUtil;

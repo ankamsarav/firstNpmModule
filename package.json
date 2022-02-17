@@ -1,0 +1,19 @@
+{
+  "name": "ShadowsUtil",
+  "version": "1.0.0",
+  "description": "Shadows Util",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ankamsarav/firstNpmModule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankamsarav/firstNpmModule/issues"
+  },
+  "homepage": "https://github.com/ankamsarav/firstNpmModule#readme"
+}
